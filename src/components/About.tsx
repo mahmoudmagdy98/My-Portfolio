@@ -34,6 +34,12 @@ export function About() {
       year: '2017 - 2021',
       description: 'Focused on software engineering and computer science.',
     },
+    {
+      degree: 'ME|ARN Stack Diploma',
+      institution: 'Information Technology Institute [ITI], (ICC)Intensive Code Camp Program ',
+      year: '2025',
+      description: 'Focused in full stack web development using JavaScript programming, Front-End Web Development, Angular, React, Next.js, Nest.js, Node.js and Mongo DB.',
+    },
   ];
 
   const experience = [
