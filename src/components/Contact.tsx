@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import { Mail, Github, Linkedin, MessageSquare } from "lucide-react";
 import type { ContactFormData } from "../types";
-// import emailjs from "@emailjs/browser";
-// import { useRef } from "react";
+
+
 
 export function Contact() {
   const [isVisible, setIsVisible] = useState(false);
